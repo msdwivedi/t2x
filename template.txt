@@ -1,4 +1,4 @@
-<h1> Git Changelog changelog </h1>
+<h1> Git Changelog changelog mani </h1>
 <p>
 Changelog of Git Changelog.
 </p>
@@ -28,7 +28,6 @@ Git Hash: {{hashFull}} {{authorName}} <i>{{commitTime}}</i>
  <li> {{.}}</li> 
 {{/messageBodyItems}}
 </p>
-
 
   {{/commits}}
 
