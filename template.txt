@@ -20,7 +20,7 @@ Changelog of Git Changelog.
 
 
    {{#commits}}
-Git Hash: {{hash} {{authorName}} <i>{{commitTime}}</i>
+Git Hash: {{hash}} {{authorName}} <i>{{commitTime}}</i>
 <p>
 <h3>{{{messageTitle}}}</h3>
 
